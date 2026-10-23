@@ -7,7 +7,7 @@
 
 # Snowflake packages
 aiobotocore==2.23.0
-fsspec==2025.7.0
+fsspec==2026.6.0
 
 jaraco.classes==3.4.0
 jaraco.context==6.1.2
